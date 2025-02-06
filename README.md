@@ -29,7 +29,7 @@ For this reason, we are requesting **$65K in QUBIC** at the current price of **$
 _All funds will be used for the listing, and in case of a price increase in QUBIC, the excess funds will be returned to the CCF._
 
 ### **Listing Costs**
-- **Amount:** 38.23 bln QUBIC @2300/bln, around **$65,000**
+- **Amount:** 38.23 bln QUBIC @1750/bln, around **$65,000**
 - **Timeline:** 4 weeks after payment for the **QUBIC** integration on spot
 
 ### **QU Donation Address**
