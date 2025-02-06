@@ -1,6 +1,6 @@
 # Exchange Listings Proposal
 
-## Request to CCF to approve $45,000 Qubics for listings on LBank + $20,000 for the initial MM
+## Request to CCF to approve **38.23B Qubic** ($45,000 Qubics for listings on LBank + $20,000 for the initial MM)
 
 ### Proposal
 
